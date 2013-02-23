@@ -7,10 +7,10 @@
 
   <!-- versionCode is optional and Android only -->
 
-  <name>Cet Testing</name>
+  <name>Chipopo Testing</name>
   <icon src="icon.png" width="180" height="155"></icon>
   <description>
-   Testing  cet apps
+    Testing  Chipopos apps
   </description>
   <preference name="show-splash-screen-spinner" value="false" />
   <preference name="stay-in-webview" value="true" />
@@ -26,10 +26,12 @@
   <feature name="http://api.phonegap.com/1.0/network"/>
   <feature name="http://api.phonegap.com/1.0/notification"/>
   <author href="https://build.phonegap.com" email="support@phonegap.com">
-   Cet testing
+    Chipopo testing
   </author>
   <access origin="*" />
   <access origin="http://192.168.1.12 "  />
-  <access origin="http://Mokojo.me" />
-  <access origin="http://www.Mokojo.me" />
+  <access origin="http://appto11.com" />
+  <access origin="http://www.appto11.com" />
+  <access origin="http://azurewebsites.net/" />
+  <access origin="http://html5assets.azurewebsites.net/" />
 </widget>
